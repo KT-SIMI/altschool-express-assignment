@@ -1,11 +1,11 @@
 {
-  "name": "assignment2",
+  "name": "webserver",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "web.js",
   "scripts": {
-    "devStart": "nodemon index.js",
-    "start": "node index.js"
+    "devStart": "nodemon web.js",
+    "start": "node web.js"
   },
   "keywords": [],
   "author": "",
